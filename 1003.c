@@ -7,5 +7,5 @@ int main(){
 
 		printf("SOMA = %d\n", a+b);
 
-		return 0;
+	return 0;
 }
