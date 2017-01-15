@@ -17,6 +17,7 @@ int main (){
     x = ((s + t+ f) % 24) ;
 
     printf("%d\n", x);
+
     return 0;
 }
 	
